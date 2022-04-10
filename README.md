@@ -1,4 +1,4 @@
-# Kaggle-compition---Cats-vs-Dogs
+# Kaggle-compitition---Cats-vs-Dogs
 This is my solution for the famous cats vs dogs problem solved using transfer learning.
 
 Using my solution, I was able to attain a log loss score of 0.7127, which would have put me in top 175 submissions in the compition have this been a part of the compition submission back in the days.
